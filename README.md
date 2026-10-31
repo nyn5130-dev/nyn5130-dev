@@ -1,18 +1,13 @@
 
-# Hi, I'm Nhi! 👋
+### Hi, I'm Bonnie! 👋
 
-### Computer Science Student @ Penn State University
+🎓 Computer Science student at **Penn State University**
 
-I'm a Computer Science student passionate about **backend engineering, full-stack development, and cloud computing**.
+💻 I enjoy building full-stack applications, exploring AI integrations, and solving real-world problems through code.
 
-Fun fact: I never imagined myself majoring in Computer Science, yet here I am, turning ideas into code!
+☁️ Currently exploring cloud technologies and improving my software engineering skills.
 
-- 🎓 Pursuing a B.S. in Computer Science at Penn State University
-- 💻 Interested in Software Engineering and Backend Development
-- ☁️ Experience with AWS, Azure App Service, and Docker
-- 🤝 Enjoy collaborating on team projects and hackathons
-
----
+🌟 **Fun fact:** I never imagined myself majoring in Computer Science, yet here I am, turning ideas into code!
 
 ## 🛠️ Tech Stack
 
